@@ -1,0 +1,37 @@
+.card-mac-air{
+    padding-top: 19px;
+}
+
+.card-whatch{
+    padding-top: 10px;
+}
+
+.prodocts-text{
+    text-align: center;
+}
+
+
+#nav-area{
+
+    background-color: aqua !important;
+}
+
+.navbar{
+    background-color: aqua !important;
+}
+
+#nav-area .icon a{
+    text-decoration: none;
+}
+
+#nav-area .icon a i{
+    font-size: 30px;
+    color: red;
+}
+
+#nav-area .icon sup{
+    font-size: 20px;
+    color: red;
+    top: -1em;
+}
+
